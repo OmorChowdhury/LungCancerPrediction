@@ -1,9 +1,4 @@
 # LungCancerPrediction
-Nice project 👍 I’ve analyzed your folder structure and notebook. Below is a **clean, professional GitHub README.md** you can directly use to publish your repository.
-
-You can copy-paste this as `README.md` in your project root.
-
----
 
 # Lung Cancer Prediction Using Machine Learning
 
